@@ -6,7 +6,7 @@
 
 **College / Campus:** International Institute of Information Technology , Bhubaneswar (IIIT Bhubaneswar)
 
-**Demo Video Link:** 
+**Demo Video Link:** https://youtu.be/iEnAaYT3KFg?feature=shared
 
 ---
 
