@@ -349,7 +349,7 @@ with right:
             automargin=True,
             insidetextorientation="horizontal",
             outsidetextfont=dict(size=11, color="#e0e0e0"),
-            insidetextfont=dict(size=12, color="#ffffff"),
+            insidetextfont=dict(size=12, color="#000000"),
             marker=dict(line=dict(color="#0e1117", width=1.5)),
             rotation=90,
             hovertemplate="<b>%{label}</b> (%{customdata})<br>Weight: %{percent}<extra></extra>",

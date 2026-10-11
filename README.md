@@ -1,8 +1,11 @@
-# AI/NLP Risk Engine: Tactical Index Rebalancer - S&P Global & Crisil Campus Hackathon
+# AI/NLP Risk Engine: Tactical Index Rebalancer - S&P Global & Crisil Hackathon 2026
 
 **Candidate Name:** AYUSH PATTANAIK
+
 **College Email ID:** b424020@iiit-bh.ac.in
+
 **College / Campus:** International Institute of Information Technology , Bhubaneswar (IIIT Bhubaneswar)
+
 **Demo Video Link:** 
 
 ---
@@ -62,8 +65,8 @@ Runtime: Python 3.12 (or Python 3.10+) on Windows 11 / Linux / macOS
 
 Step-by-step commands to set up the environment and run your code locally:
 ```bash
-git clone <your-repo-url>
-cd <repo-folder>
+git clone https://github.com/AyuPat-97/AyuPat-97-IIIT-Bhubaneswar-Ayush-Pattanaik-Hackathon.git
+cd AyuPat-97-IIIT-Bhubaneswar-Ayush-Pattanaik-Hackathon
 python -m venv venv
 # Windows: .\venv\Scripts\activate | Linux/macOS: source venv/bin/activate
 pip install -r requirements.txt
